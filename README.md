@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg?v=2">
-  <img alt="Dogyeong Hwang — flight deck: AI, data, computer vision, and frontend" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg?v=3">
+  <img alt="Dogyeong Hwang — flight deck: AI, data, computer vision, and frontend" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg?v=3" width="100%">
 </picture>
 
 <br>
@@ -15,9 +15,9 @@ Rooted in avionics, exploring aerospace, space, and defense.
 ### Projects
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg?v=2">
-  <img alt="Flight log: 01 NEW:LEARN (Team lead, AI), 02 ROADY (AI), 03 S.S.A.F.Y (AI, Frontend), 04 OLA (Frontend, AI), 05 Dancing with DMZ (Frontend lead)" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg?v=3">
+  <img alt="Flight log: 01 NEW:LEARN (Team lead, AI), 02 ROADY (AI), 03 S.S.A.F.Y (AI, Frontend), 04 OLA (Frontend, AI), 05 Dancing with DMZ (Frontend lead)" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg?v=3" width="100%">
 </picture>
 
 [01 NEW:LEARN ↗](https://github.com/a102-NEWLEARN/NEW-LEARN) · [02 ROADY ↗](https://github.com/ehrud7654/ROADY) · [03 S.S.A.F.Y ↗](https://github.com/ehrud7654/Physical-AI-project) · [04 OLA ↗](https://github.com/ehrud7654/OLA) · [05 Dancing with DMZ ↗](https://github.com/htjworld/dancing-with-dmz)
@@ -32,7 +32,7 @@ Rooted in avionics, exploring aerospace, space, and defense.
 
 | 02 / ROADY | 03 / S.S.A.F.Y |
 | :--- | :--- |
-| [**Edge → Server AI**](https://github.com/ehrud7654/ROADY)<br>A patrol robot that detects tactile paving damage on device and analyzes it on a server.<br><sub>점자블록 파손을 로봇에서 탐지하고 서버에서 분석하는 순찰 로봇 서비스</sub><br>**AI** — Dataset building and labeling, the Jetson edge detection and server segmentation models, an obstacle detection model, and Jetson deployment prep.<br><sub>데이터 구축·라벨링, Edge 탐지·서버 Segmentation 모델, 장애물 탐지 모델, Jetson 배포 준비</sub><br><sub>Python · PyTorch · Ultralytics YOLO · OpenCV · FastAPI</sub><br>[My part ↗](https://github.com/ehrud7654/roady-edge-server-ai) | [**Smart Solutions All For You**](https://github.com/ehrud7654/Physical-AI-project)<br>A platform for teaching a robot arm from human demonstrations: collect, train, and compose tasks.<br><sub>사람의 시연으로 로봇팔을 학습시키는 플랫폼 — 시연 수집·학습·작업 구성</sub><br>**AI · FRONTEND** — Designed and built the web frontend for data, training, and task management; processed UMI demonstrations into training data; ran my own behavior-cloning baseline experiments.<br><sub>데이터·학습·작업 관리 웹 프론트엔드 설계·구현, UMI 시연 데이터 처리, 개인 BC 기준선 실험</sub><br><sub>React · TypeScript · Python · ORB-SLAM3 · MuJoCo</sub><br>[My part ↗](https://github.com/ehrud7654/physical-ai-umi-learning) |
+| [**Tactile Paving Damage Detection AI Robot**](https://github.com/ehrud7654/ROADY)<br>A patrol robot that detects tactile paving damage on device and analyzes it on a server.<br><sub>점자블록 파손을 로봇에서 탐지하고 서버에서 분석하는 순찰 로봇 서비스</sub><br>**AI** — Dataset building and labeling, the Jetson edge detection and server segmentation models, an obstacle detection model, and Jetson deployment prep.<br><sub>데이터 구축·라벨링, Edge 탐지·서버 Segmentation 모델, 장애물 탐지 모델, Jetson 배포 준비</sub><br><sub>Python · PyTorch · Ultralytics YOLO · OpenCV · FastAPI</sub><br>[My part ↗](https://github.com/ehrud7654/roady-edge-server-ai) | [**Smart Solutions All For You**](https://github.com/ehrud7654/Physical-AI-project)<br>A platform for teaching a robot arm from human demonstrations: collect, train, and compose tasks.<br><sub>사람의 시연으로 로봇팔을 학습시키는 플랫폼 — 시연 수집·학습·작업 구성</sub><br>**AI · FRONTEND** — Designed and built the web frontend for data, training, and task management; processed UMI demonstrations into training data; ran my own behavior-cloning baseline experiments.<br><sub>데이터·학습·작업 관리 웹 프론트엔드 설계·구현, UMI 시연 데이터 처리, 개인 BC 기준선 실험</sub><br><sub>React · TypeScript · Python · ORB-SLAM3 · MuJoCo</sub><br>[My part ↗](https://github.com/ehrud7654/physical-ai-umi-learning) |
 
 | 04 / OLA | 05 / Dancing with DMZ |
 | :--- | :--- |
@@ -43,9 +43,9 @@ Rooted in avionics, exploring aerospace, space, and defense.
 ### Awards
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg?v=2">
-  <img alt="Awards: Minister of Employment and Labor Award 2026, Best Project Team 2026, Excellence Award 2026, Excellence Award 2024" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg?v=3">
+  <img alt="Awards: Minister of Employment and Labor Award 2026, Best Project Team 2026, Excellence Award 2026, Excellence Award 2024" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg?v=3" width="100%">
 </picture>
 
 <details>
