@@ -32,5 +32,3 @@ Avionics graduate building AI and data pipelines, and the screens people use to 
 | **Best Project Team**<br><sub>최우수팀</sub> | SSAFY first-semester project competition<br><sub>SSAFY 1학기 프로젝트 경진대회</sub> | 2026 | [OLA ↗](https://github.com/ehrud7654/OLA) |
 | **Excellence Award**<br><sub>우수상</sub> | SSAFY common project<br><sub>SSAFY 공통 프로젝트</sub> | 2026 | [ROADY ↗](https://github.com/ehrud7654/ROADY) |
 | **Excellence Award**<br><sub>우수상</sub> | Capstone Design Competition<br><sub>캡스톤디자인 경진대회</sub> | 2024 | 팜하니 (smart farm) |
-
-<sub>More about each project is in its repository. A separate portfolio page is on the way.<br>프로젝트별 자세한 내용은 각 저장소에서 볼 수 있습니다. 별도 포트폴리오 페이지는 준비 중입니다.</sub>
