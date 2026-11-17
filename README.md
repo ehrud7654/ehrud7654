@@ -9,8 +9,8 @@
 **Dogyeong Hwang · 황도경**  
 **Rooted in avionics, working across AI, data, computer vision, and frontend.**
 
-I studied avionics at Hanseo University and am part of SSAFY's 15th cohort. I build AI and data pipelines and the frontends around them, and I'm interested in AI, data, and software work in aerospace, space, and defense.  
-<sub>한서대학교에서 항공전자공학을 전공했고 SSAFY 15기입니다. AI·데이터 파이프라인과 그 주변의 프론트엔드를 만들며, 항공·우주·방산 분야의 AI·데이터·SW 업무에 관심이 있습니다.</sub>
+I studied avionics and am part of SSAFY's 15th cohort. I build AI and data pipelines and the frontends around them, and I'm interested in AI, data, and software work in aerospace, space, and defense.  
+<sub>항공전자공학을 전공했고 SSAFY 15기입니다. AI·데이터 파이프라인과 그 주변의 프론트엔드를 만들며, 항공·우주·방산 분야의 AI·데이터·SW 업무에 관심이 있습니다.</sub>
 
 ---
 
@@ -31,6 +31,6 @@ I studied avionics at Hanseo University and am part of SSAFY's 15th cohort. I bu
 | **Minister of Employment and Labor Award**<br><sub>고용노동부 장관상</sub> | SSAFY × Kakao Tech Bootcamp AI Hackathon | 2026 | [DRIFT ↗](https://github.com/Seongmiin2/DRIFT) |
 | **Best Project Team**<br><sub>최우수팀</sub> | SSAFY first-semester project competition<br><sub>SSAFY 1학기 프로젝트 경진대회</sub> | 2026 | [OLA ↗](https://github.com/ehrud7654/OLA) |
 | **Excellence Award**<br><sub>우수상</sub> | SSAFY common project<br><sub>SSAFY 공통 프로젝트</sub> | 2026 | [ROADY ↗](https://github.com/ehrud7654/ROADY) |
-| **Excellence Award**<br><sub>우수상</sub> | Hanseo University Capstone Design Competition<br><sub>한서대학교 캡스톤디자인 경진대회</sub> | 2024 | 팜하니 (smart farm) |
+| **Excellence Award**<br><sub>우수상</sub> | Capstone Design Competition<br><sub>캡스톤디자인 경진대회</sub> | 2024 | 팜하니 (smart farm) |
 
 <sub>More about each project is in its repository. A separate portfolio page is on the way.<br>프로젝트별 자세한 내용은 각 저장소에서 볼 수 있습니다. 별도 포트폴리오 페이지는 준비 중입니다.</sub>
