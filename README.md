@@ -22,6 +22,10 @@ Rooted in avionics, exploring aerospace, space, and defense.
 | :--- | :--- |
 | [**Mountain Safety**](https://github.com/ehrud7654/OLA)<br>A hiking-safety service that grades trail risk from weather and hazard data and shares live location with a guardian.<br><sub>날씨·재난 데이터로 산행 안전 등급을 내고 보호자와 위치를 공유하는 서비스</sub><br>**FRONTEND · AI** — Built the SafeLink feature and the frontend UI/UX, and integrated the AI features.<br><sub>세이프링크 시스템, 프론트엔드 UI/UX 전반, AI 연동</sub><br><sub>Vue 3 · Leaflet · Claude / Gemini API</sub> | [**Radar Storytelling ↗**](https://github.com/htjworld/dancing-with-dmz)<br>An interactive web app that teaches how to read radar with NISAR images of the DMZ. [Live app ↗](https://htjworld.github.io/dancing-with-dmz/)<br><sub>NISAR 레이더 영상으로 DMZ를 읽는 인터랙티브 웹 앱</sub><br>**FRONTEND LEAD** — Took on the frontend design and built the night-sky film and explore sections at the NASA Space Apps Challenge 2026.<br><sub>NASA Space Apps Challenge 2026 · 프론트엔드 디자인, 밤하늘 필름·탐색 화면 구현 · 팀 원본 저장소 연결</sub><br><sub>JavaScript (ES modules) · MapLibre GL JS</sub> |
 
+| 05 / NEW:LEARN |
+| :--- |
+| [**News Issue Mapping ↗**](https://github.com/a102-NEWLEARN/NEW-LEARN)<br>An AI platform that turns scattered news into article mind maps and issue timelines. [Live ↗](https://newlearn.io.kr)<br><sub>흩어진 뉴스를 기사 마인드맵과 이슈 타임라인으로 정리하는 AI 플랫폼</sub><br>**TEAM LEAD · AI** — Built the article-to-mind-map extraction step (prompt, preprocessing, output checks, event-time resolution) and the queue workers that run extraction and embedding.<br><sub>기사 마인드맵 추출 단계(프롬프트·전처리·결과 검사·발생 시점 계산)와 추출·임베딩 큐 워커 구현 · 팀 원본 저장소 연결</sub><br><sub>Python · FastAPI · Redis Streams · LLM API · BGE-m3-ko</sub> |
+
 ### Awards
 
 | Award | Event | Year | Project |
