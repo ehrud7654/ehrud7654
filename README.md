@@ -9,8 +9,8 @@
 **Dogyeong Hwang · 황도경**  
 **Rooted in avionics, working across AI, data, computer vision, and frontend.**
 
-I studied avionics and am part of SSAFY's 15th cohort. I build AI and data pipelines and the frontends around them, and I'm interested in AI, data, and software work in aerospace, space, and defense.  
-<sub>항공전자공학을 전공했고 SSAFY 15기입니다. AI·데이터 파이프라인과 그 주변의 프론트엔드를 만들며, 항공·우주·방산 분야의 AI·데이터·SW 업무에 관심이 있습니다.</sub>
+Avionics graduate building AI and data pipelines, and the screens people use to work with them. Drawn to problems in aerospace, space, and defense.  
+<sub>항공전자공학을 전공하고, AI·데이터 파이프라인과 이를 다루는 화면을 만듭니다. 항공·우주·방산 분야의 문제에 끌립니다.</sub>
 
 ---
 
