@@ -24,12 +24,12 @@
 
 ### Selected recognition
 
-- **2026 · Excellence Award** — SSAFY common project, ROADY team. [Project ↗](https://github.com/ehrud7654/ROADY)  
-  <sub>SSAFY 공통 프로젝트 우수상 · ROADY 팀</sub>
 - **2026 · Minister of Employment and Labor Award** — SSAFY × Kakao Tech Bootcamp AI Hackathon, Golden Time team. [Team repository ↗](https://github.com/Seongmiin2/DRIFT)  
   <sub>고용노동부 장관상 · 골든타임 팀</sub>
 - **2026 · Best Project Team** — SSAFY first-semester project competition, OLA team. [Project ↗](https://github.com/ehrud7654/OLA)  
   <sub>SSAFY 1학기 프로젝트 경진대회 최우수팀 · 올라 팀</sub>
+- **2026 · Excellence Award** — SSAFY common project, ROADY team. [Project ↗](https://github.com/ehrud7654/ROADY)  
+  <sub>SSAFY 공통 프로젝트 우수상 · ROADY 팀</sub>
 - **2024 · Excellence Award** — Capstone Design Competition, Smart Farm team.  
   <sub>캡스톤디자인 경진대회 우수상 · 팜하니 팀</sub>
 
