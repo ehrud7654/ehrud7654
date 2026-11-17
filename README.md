@@ -25,12 +25,12 @@
 ### Awards
 
 - **2026 · Minister of Employment and Labor Award** — SSAFY × Kakao Tech Bootcamp AI Hackathon, Golden Time (DRIFT). [Repository ↗](https://github.com/Seongmiin2/DRIFT)  
-  <sub>고용노동부 장관상 · 골든타임 팀(DRIFT)</sub>
+  <sub>고용노동부 장관상 · 골든타임(DRIFT)</sub>
 - **2026 · Best Project Team** — SSAFY first-semester project competition, OLA. [Project ↗](https://github.com/ehrud7654/OLA)  
-  <sub>SSAFY 1학기 프로젝트 경진대회 최우수팀 · 올라 팀</sub>
+  <sub>SSAFY 1학기 프로젝트 경진대회 최우수팀 · 올라</sub>
 - **2026 · Excellence Award** — SSAFY common project, ROADY. [Project ↗](https://github.com/ehrud7654/ROADY)  
-  <sub>SSAFY 공통 프로젝트 우수상 · ROADY 팀</sub>
+  <sub>SSAFY 공통 프로젝트 우수상 · ROADY</sub>
 - **2024 · Excellence Award** — Hanseo University Capstone Design Competition, 팜하니 (smart farm).  
-  <sub>한서대학교 캡스톤디자인 경진대회 우수상 · 팜하니 팀(스마트팜)</sub>
+  <sub>한서대학교 캡스톤디자인 경진대회 우수상 · 팜하니(스마트팜)</sub>
 
 <sub>More about each project is in its repository. A separate portfolio page is on the way.<br>프로젝트별 자세한 내용은 각 저장소에서 볼 수 있습니다. 별도 포트폴리오 페이지는 준비 중입니다.</sub>
