@@ -9,8 +9,8 @@
 **Dogyeong Hwang · 황도경**  
 **Rooted in avionics, working across AI, data, computer vision, and frontend.**
 
-Avionics graduate building AI and data pipelines, and the screens people use to work with them. Drawn to problems in aerospace, space, and defense.  
-<sub>항공전자공학을 전공하고, AI·데이터 파이프라인과 이를 다루는 화면을 만듭니다. 항공·우주·방산 분야의 문제에 끌립니다.</sub>
+Building computer vision and robot-learning pipelines end to end — from raw data to models to the interface people actually use. Currently exploring AI and data work for aerospace, space, and defense.  
+<sub>데이터 수집부터 모델, 사람이 직접 쓰는 화면까지 이어지는 AI 파이프라인을 만듭니다. 요즘은 항공·우주·방산 분야의 AI·데이터 문제를 들여다보고 있습니다.</sub>
 
 ---
 
