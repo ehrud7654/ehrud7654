@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg">
-  <img alt="Dogyeong Hwang — flight deck: AI, data, computer vision, and frontend" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg?v=2">
+  <img alt="Dogyeong Hwang — flight deck: AI, data, computer vision, and frontend" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/deck-light.svg?v=2" width="100%">
 </picture>
 
 <br>
@@ -15,9 +15,9 @@ Rooted in avionics, exploring aerospace, space, and defense.
 ### Projects
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg">
-  <img alt="Flight log: 01 NEW:LEARN (Team lead, AI), 02 ROADY (AI), 03 S.S.A.F.Y (AI, Frontend), 04 OLA (Frontend, AI), 05 Dancing with DMZ (Frontend lead)" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg?v=2">
+  <img alt="Flight log: 01 NEW:LEARN (Team lead, AI), 02 ROADY (AI), 03 S.S.A.F.Y (AI, Frontend), 04 OLA (Frontend, AI), 05 Dancing with DMZ (Frontend lead)" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg?v=2" width="100%">
 </picture>
 
 [01 NEW:LEARN ↗](https://github.com/a102-NEWLEARN/NEW-LEARN) · [02 ROADY ↗](https://github.com/ehrud7654/roady-edge-server-ai) · [03 S.S.A.F.Y ↗](https://github.com/ehrud7654/Physical-AI-project) · [04 OLA ↗](https://github.com/ehrud7654/OLA) · [05 Dancing with DMZ ↗](https://github.com/htjworld/dancing-with-dmz)
@@ -43,9 +43,9 @@ Rooted in avionics, exploring aerospace, space, and defense.
 ### Awards
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg">
-  <img alt="Awards: Minister of Employment and Labor Award 2026, Best Project Team 2026, Excellence Award 2026, Excellence Award 2024" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg?v=2">
+  <img alt="Awards: Minister of Employment and Labor Award 2026, Best Project Team 2026, Excellence Award 2026, Excellence Award 2024" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/patches-light.svg?v=2" width="100%">
 </picture>
 
 <details>
