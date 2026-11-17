@@ -24,8 +24,6 @@
 
 ### Team awards
 
-<sub>Each award below went to a team; I was one of its members.<br>아래 상은 모두 팀이 받은 상이며, 저는 팀원으로 참여했습니다.</sub>
-
 - **2026 · Minister of Employment and Labor Award** — SSAFY × Kakao Tech Bootcamp AI Hackathon, team Golden Time (project DRIFT). I took part in early planning, and collected and preprocessed the marine and weather data handed to the modeling teammate. [Team repository ↗](https://github.com/Seongmiin2/DRIFT)  
   <sub>고용노동부 장관상 · 골든타임 팀(DRIFT) · 초기 기획 참여, 해양·기상 데이터 수집·전처리 후 모델링 담당자에게 전달</sub>
 - **2026 · Best Project Team** — SSAFY first-semester project competition, team OLA. [Project ↗](https://github.com/ehrud7654/OLA)  
