@@ -8,7 +8,8 @@
 
 **Dogyeong Hwang · 황도경**  
 **AI, Data, Computer Vision, Frontend.**  
-Rooted in avionics, exploring aerospace, space, and defense.
+Rooted in avionics, exploring aerospace, space, and defense.  
+SSAFY 15th · Python track
 
 ---
 
