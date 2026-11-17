@@ -17,10 +17,10 @@ Rooted in avionics, exploring aerospace, space, and defense.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg">
-  <img alt="Flight log: 01 NEW:LEARN (Team lead, AI), 02 ROADY (AI), 03 Physical AI (AI, Frontend), 04 OLA (Frontend, AI), 05 Dancing with DMZ (Frontend lead)" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg" width="100%">
+  <img alt="Flight log: 01 NEW:LEARN (Team lead, AI), 02 ROADY (AI), 03 S.S.A.F.Y (AI, Frontend), 04 OLA (Frontend, AI), 05 Dancing with DMZ (Frontend lead)" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/log-light.svg" width="100%">
 </picture>
 
-[01 NEW:LEARN ↗](https://github.com/a102-NEWLEARN/NEW-LEARN) · [02 ROADY ↗](https://github.com/ehrud7654/roady-edge-server-ai) · [03 Physical AI ↗](https://github.com/ehrud7654/physical-ai-umi-learning) · [04 OLA ↗](https://github.com/ehrud7654/OLA) · [05 Dancing with DMZ ↗](https://github.com/htjworld/dancing-with-dmz)
+[01 NEW:LEARN ↗](https://github.com/a102-NEWLEARN/NEW-LEARN) · [02 ROADY ↗](https://github.com/ehrud7654/roady-edge-server-ai) · [03 S.S.A.F.Y ↗](https://github.com/ehrud7654/Physical-AI-project) · [04 OLA ↗](https://github.com/ehrud7654/OLA) · [05 Dancing with DMZ ↗](https://github.com/htjworld/dancing-with-dmz)
 
 <details>
 <summary>Mission details · 프로젝트 상세</summary>
@@ -30,9 +30,9 @@ Rooted in avionics, exploring aerospace, space, and defense.
 | :--- |
 | [**News Issue Mapping ↗**](https://github.com/a102-NEWLEARN/NEW-LEARN)<br>An AI platform that turns scattered news into article mind maps and issue timelines. [Live ↗](https://newlearn.io.kr)<br><sub>흩어진 뉴스를 기사 마인드맵과 이슈 타임라인으로 정리하는 AI 플랫폼</sub><br>**TEAM LEAD · AI** — Built the article-to-mind-map extraction step (prompt, preprocessing, output checks, event-time resolution) and the queue workers that run extraction and embedding.<br><sub>기사 마인드맵 추출 단계(프롬프트·전처리·결과 검사·발생 시점 계산)와 추출·임베딩 큐 워커 구현</sub><br><sub>Python · FastAPI · Redis Streams · LLM API · BGE-m3-ko</sub> |
 
-| 02 / ROADY | 03 / Physical AI |
+| 02 / ROADY | 03 / S.S.A.F.Y |
 | :--- | :--- |
-| [**Edge → Server AI**](https://github.com/ehrud7654/roady-edge-server-ai)<br>A patrol robot that detects tactile paving damage on device and analyzes it on a server.<br><sub>점자블록 파손을 로봇에서 탐지하고 서버에서 분석하는 순찰 로봇 서비스</sub><br>**AI** — Dataset building and labeling, the Jetson edge detection and server segmentation models, an obstacle detection model, and Jetson deployment prep.<br><sub>데이터 구축·라벨링, Edge 탐지·서버 Segmentation 모델, 장애물 탐지 모델, Jetson 배포 준비</sub><br><sub>Python · PyTorch · Ultralytics YOLO · OpenCV · FastAPI</sub><br>[Team project ↗](https://github.com/ehrud7654/ROADY) | [**UMI Robot Learning**](https://github.com/ehrud7654/physical-ai-umi-learning)<br>A platform for teaching a robot arm from human demonstrations: collect, train, and compose tasks.<br><sub>사람의 시연으로 로봇팔을 학습시키는 플랫폼 — 시연 수집·학습·작업 구성</sub><br>**AI · FRONTEND** — Designed and built the web frontend for data, training, and task management; processed UMI demonstrations into training data; ran my own behavior-cloning baseline experiments.<br><sub>데이터·학습·작업 관리 웹 프론트엔드 설계·구현, UMI 시연 데이터 처리, 개인 BC 기준선 실험</sub><br><sub>React · TypeScript · Python · ORB-SLAM3 · MuJoCo</sub><br>[Team project ↗](https://github.com/ehrud7654/Physical-AI-project) |
+| [**Edge → Server AI**](https://github.com/ehrud7654/roady-edge-server-ai)<br>A patrol robot that detects tactile paving damage on device and analyzes it on a server.<br><sub>점자블록 파손을 로봇에서 탐지하고 서버에서 분석하는 순찰 로봇 서비스</sub><br>**AI** — Dataset building and labeling, the Jetson edge detection and server segmentation models, an obstacle detection model, and Jetson deployment prep.<br><sub>데이터 구축·라벨링, Edge 탐지·서버 Segmentation 모델, 장애물 탐지 모델, Jetson 배포 준비</sub><br><sub>Python · PyTorch · Ultralytics YOLO · OpenCV · FastAPI</sub><br>[Team project ↗](https://github.com/ehrud7654/ROADY) | [**Smart Solutions All For You**](https://github.com/ehrud7654/Physical-AI-project)<br>A platform for teaching a robot arm from human demonstrations: collect, train, and compose tasks.<br><sub>사람의 시연으로 로봇팔을 학습시키는 플랫폼 — 시연 수집·학습·작업 구성</sub><br>**AI · FRONTEND** — Designed and built the web frontend for data, training, and task management; processed UMI demonstrations into training data; ran my own behavior-cloning baseline experiments.<br><sub>데이터·학습·작업 관리 웹 프론트엔드 설계·구현, UMI 시연 데이터 처리, 개인 BC 기준선 실험</sub><br><sub>React · TypeScript · Python · ORB-SLAM3 · MuJoCo</sub><br>[My part ↗](https://github.com/ehrud7654/physical-ai-umi-learning) |
 
 | 04 / OLA | 05 / Dancing with DMZ |
 | :--- | :--- |
