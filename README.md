@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Dogyeong Hwang — Avionics, AI, data, computer vision, and frontend" src="./assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/hero-light.svg">
+  <img alt="Dogyeong Hwang — Avionics, AI, data, computer vision, and frontend" src="https://raw.githubusercontent.com/ehrud7654/ehrud7654/master/assets/hero-light.svg" width="100%">
 </picture>
 
 <br>
